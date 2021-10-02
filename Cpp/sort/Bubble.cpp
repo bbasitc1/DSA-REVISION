@@ -58,7 +58,7 @@ int main()
 
     cin>>n;
 
-    vector<int> arr(n);
+     int arr[n];//using array
 
     for(int i=0;i<n;i++)
 
